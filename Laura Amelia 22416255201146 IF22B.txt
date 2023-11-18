@@ -1,0 +1,17 @@
+Laura Amelia 22416255201146 IF22B
+
+1.	Apa yang dimaksud dengan framework pada pengembangan aplikasi? (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+Framework dalam pengembangan aplikasi mirip dengan petunjuk bangunan atau resep masakan. Bayangkan memiliki panduan yang sudah disusun dengan baik untuk membangun sesuatu tanpa perlu memulai dari awal. Framework menyediakan struktur dasar, alat, dan aturan yang membantu dalam membuat aplikasi dengan lebih mudah dan efisien.
+Ini seperti LEGO, punya blok-blok yang sudah ada, yang bisa digunakan untuk membuat sesuatu tanpa harus menciptakan setiap blok dari awal. Framework menyediakan berbagai alat siap pakai, seperti kode, fungsi, dan aturan, sehingga fokus bisa diberikan pada bagian kreatif dan spesifik dari aplikasi yang dibangun.
+Dengan menggunakan framework, proses pembuatan aplikasi bisa dipercepat, karena sebagian besar pekerjaan keras sudah dilakukan. Ini juga membantu memastikan bahwa aplikasi yang dibuat lebih terstruktur, lebih aman, dan lebih mudah untuk diperbaiki atau ditingkatkan di masa depan.
+
+2.	
+a)	Sebutkan tema proyek yang sedang digarap! Self Service Laundry
+b)	Sebutkan anggota dari proyek yang sedang digarap, berikut dengan jobdesk dari masing-masing anggota! 
+-	Farhan Mutawakkil - Backend
+-	M Zakky Mubarok - Front End
+-	Laura Amelia - Data Analyst
+c)	Jelaskan permasalahan yang didapat setelah hasil wawancara dengan client, beserta hipotesa solusi yang kalian usung! (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+Terdapat sebuah masalah pada self service yaitu ketika pada hari weekend, antrian cenderung membludak sehingga menyebabkan antrian panjang. sedangkan alat yang tersedia pada store laundry terbatas. ini membuat customer menunggu lama untuk mendapat giliran mencuci. hipotesa solusi yang kami usung adalah membuat sistem booking online pada website/aplikasi laundry untuk bertujuan agar customer bisa datang disaat alat cuci sudah siap digunakan. jadi, tidak perlu lagi mengantri dan menunggu dengan waktu yang lama.
+
+
